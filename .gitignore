@@ -131,3 +131,6 @@ dist
 
 # stryker reports
 reports/**
+
+# stryker files
+.stryker-tmp/**
